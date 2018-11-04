@@ -1,7 +1,7 @@
 # strawpoll_voting
 
 # Description
-This programm is voting for you on strawpoll as often as you like using a proxy list a random request header information.
+This programm is voting for you on strawpoll.de as often as you like using a proxy list a random request header information.
 Written in pyhton 3.x
 
 
