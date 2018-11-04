@@ -13,11 +13,11 @@ Written in pyhton 3.x
 - Open your CMD
 - CD path:to\your\clones\strawpoll_voting
 - python Strawpoll_voting.py
-
+```
 
 You will get asked for the strawpoll link.
 Copy and Paste the complete link of the strawpoll then proceed with instructions
-```
+
 ## DEPENDENCIES
 
 you may have to install dependencies
