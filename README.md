@@ -18,6 +18,7 @@ Copy and Paste the complete link of the strawpollthen proceed with instructions
 
 
 Known Issue:
+
 #1
 It may be that some of the provided proxy are not working any more or some of those in the list are not https proxys
 For some reason this only works with https. HTTP only proxys will give you a long waiting time per call
