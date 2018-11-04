@@ -13,7 +13,7 @@ python Strawpoll_voting.py
 
 
 You will get asked for the strawpoll link.
-Copy and Paste the complete link of the strawpollthen proceed with instructions
+Copy and Paste the complete link of the strawpoll then proceed with instructions
 
 
 
