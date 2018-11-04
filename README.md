@@ -1,23 +1,35 @@
 # strawpoll_voting
-This programm is voting for you on strawpoll as often as you like
+
+# Description
+This programm is voting for you on strawpoll as often as you like using a proxy list a random request header information.
+Written in pyhton 3.x
 
 
-Just Clone this repository
-
-Go to https://github.com/mozilla/geckodriver/releases
-And download the geckodriver.exe into the same folder as this repository
-
-Open your CMD
-CD path:to\your\clones\strawpoll_voting
-python Strawpoll_voting.py
+# HOW TO
+```
+- Clone this repository
+- Go to https://github.com/mozilla/geckodriver/releases
+- And download the geckodriver.exe into the same folder as this repository
+- Open your CMD
+- CD path:to\your\clones\strawpoll_voting
+- python Strawpoll_voting.py
 
 
 You will get asked for the strawpoll link.
 Copy and Paste the complete link of the strawpoll then proceed with instructions
+```
+# DEPENDENCIES
 
+you may have to install dependencies
 
+- pip install urllib
+- pip install ssl
+- pip install bs4
+- pip install selenium
+- pip install os
+- pip install csv
 
-Known Issue:
+# Known Issue:
 
 #1
 It may be that some of the provided proxy are not working any more or some of those in the list are not https proxys
