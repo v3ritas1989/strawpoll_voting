@@ -175,8 +175,4 @@ answer=getuserquestion(answersarray)
 count=getuserquestioncount()
 seleniumclickbutton(sitepoll,answer,count)
 
-##saveFile = open('withHEaders.txt','w', encoding ='utf-8')
-##saveFile.write(str(soup))
-##saveFile.close()
-
 
